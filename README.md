@@ -2,7 +2,7 @@
 👋 Hi, I’m Azlan Arshad
 
 ## About Me:
-I’m an Automation Test Engineer with over four years of experience, specializing in developing robust automation frameworks that enhance software quality and reliability. My expertise spans both manual and automated testing for client/server and web-based applications. I've built frameworks from scratch using Selenium, Cucumber, TestNG, and Cypress, ensuring comprehensive test coverage and seamless integration into CI/CD pipelines with Jenkins. I’m also well-versed in REST API testing with REST Assured and database testing with MySQL/Oracle.
+I’m an Automation Test Engineer with over five years of experience, specializing in developing robust automation frameworks that enhance software quality and reliability. My expertise spans both manual and automated testing for client/server, web-based and mobile (android + iOS) applications. I've built frameworks from scratch using Selenium, Cucumber, TestNG, jUnit, Playwright or Cypress, ensuring comprehensive test coverage and seamless integration into CI/CD pipelines with Jenkins/Github Actions/Circle CI. I’m also well-versed in REST API testing with REST Assured/Postman/Newman and database testing with JDBC.
 
 Beyond testing, I’ve created Generative AI web solutions using Python and Flask/Django, showcasing my versatility as a developer. My ability to work collaboratively with cross-functional teams, coupled with a strong commitment to continuous learning, makes me a valuable asset to any development or testing team.
 
