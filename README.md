@@ -43,68 +43,98 @@ freelance projects driven by curiosity and continuous learning.
 
 ## 🛠️ Tech Stack
 
-### 🚦 Test Automation & Frameworks
-
-<p align="left">
-  <!-- Testing tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium" />
-  <!-- Cypress -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40" alt="Cypress" />
-  <!-- Playwright (Official logo fallback) -->
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" alt="Playwright" />
-  <!-- Appium -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Appium / Mobile" />
-  <!-- Cucumber -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="40" height="40" alt="Cucumber" />
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-</p>
-
-**Framework styles:** BDD, TDD, DDT, Hybrid, POM
+A showcase of the technologies I use across **automation**, **development**, **CI/CD**, **AI**, and **cloud**.
 
 ---
 
-### 🌐 API, Database & Backend
+### 🧪 **Test Automation & Frameworks**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium" title="Selenium WebDriver"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="45" height="45" alt="Playwright" title="Playwright"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="45" height="45" alt="Cypress" title="Cypress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Appium" title="Appium (Mobile Automation)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="45" height="45" alt="Cucumber" title="BDD (Cucumber)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
 </p>
+
+**Frameworks & Methodologies:**  
+`Selenium WebDriver` • `Playwright` • `Cypress` • `Appium` • `Cucumber/BDD` • `TestNG` • `JUnit` •  
+`Hybrid` • `Page Object Model (POM)` • `Data-Driven Testing (DDT)` • `TDD`
 
 ---
 
-### ⚙️ CI/CD, Cloud & Collaboration
+### 🔗 **API & Backend Testing**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/> -->
 </p>
 
-**Tools:** Maven, GitHub Actions, CircleCI, JIRA, Trello, Notion, Slack, IntelliJ IDEA, VS Code  
+**Tools:**  
+`REST Assured` • `Postman` • `Newman` • `Node.js`  
+**Testing areas:** API Testing • Contract Testing • Schema Validation • Performance Assertions
+
+---
+
+### 🗄️ **Databases**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle DB"/>
+</p>
+
+**Tech:** MySQL • Oracle • JDBC • Data validation in testing
+
+---
+
+### ⚙️ **CI/CD & DevOps**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS"/>
+</p>
+
+**Tools:** Maven • GitHub Actions • CircleCI • Jenkins • AWS • Azure  
+**Practices:** CI/CD pipelines • Build automation • Test reporting • Deployment testing 
+
+---
+
+### 🤝 **Productivity & Collaboration**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
 
 ---
 
 ### 🤖 Automation & Integrations
 
 <p align="left">
-  <!-- These may not have devicons, so keep as text badges -->
   <img src="https://img.shields.io/badge/n8n-Automation-EA4D2D?logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Zapier-Workflows-FF4A00?logo=zapier&logoColor=white" />
   <img src="https://img.shields.io/badge/UiPath-Studio-0F6BFF?logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/Coda-Docs-000000?logo=coda&logoColor=white" />
+</p>
+
+---
+
+### ☁️ **Web Development (AI & Backend Projects)**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
 </p>
 
 ---
