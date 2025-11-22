@@ -43,7 +43,7 @@ freelance projects driven by curiosity and continuous learning.
 
 ## 🛠️ Tech Stack
 
-A showcase of the technologies I use across **automation**, **development**, **CI/CD**, **AI**, and **cloud**.
+A showcase of the technologies I use across **automation**, **development**, **CI/CD**, **AI**, and **cloud** 👇
 
 ---
 
@@ -99,7 +99,8 @@ A showcase of the technologies I use across **automation**, **development**, **C
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Microsoft Azure" />
 </p>
 
 **Tools:** Maven • GitHub Actions • CircleCI • Jenkins • AWS • Azure  
