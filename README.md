@@ -1,8 +1,7 @@
 <!-- Banner / Intro -->
-<p align="center">
-  <!-- 🔵 Replace this with your own image stored in the repo, e.g. /assets/azlan.png -->
+<!-- <p align="center">
   <img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/132899069?v=4)" width="160" style="border-radius:50%" alt="Azlan Arshad" />
-</p>
+</p> -->
 
 <h1 align="center">Hi there 👋, I'm Azlan Arshad</h1>
 
@@ -49,12 +48,21 @@ freelance projects driven by curiosity and continuous learning.
 <p align="left">
   <!-- Testing tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="Cypress / JS" />
+  <!-- Cypress -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40" alt="Cypress" />
+  <!-- Playwright (Official logo fallback) -->
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" alt="Playwright" />
+  <!-- Appium -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Appium / Mobile" />
+  <!-- Cucumber -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="40" height="40" alt="Cucumber" />
+  <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 </p>
 
@@ -101,7 +109,7 @@ freelance projects driven by curiosity and continuous learning.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Public Only)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azlanarshad90&show_icons=true&theme=radical&hide_border=true" alt="Azlan's GitHub stats" />
@@ -123,7 +131,8 @@ I'm open to:
 
 - Test automation frameworks (web, mobile, APIs)  
 - AI-driven QA solutions and tooling  
-- Software testing, CI/CD pipelines, and integrations  
+- Software testing, CI/CD pipelines, and integrations
+- Web/Mobile Apps Development
 
 📫 **Reach me at:**  
 - ✉️ Email: [azlan.arshad90@gmail.com](mailto:azlan.arshad90@gmail.com) / [azlanarshad28@gmail.com](mailto:azlanarshad28@gmail.com)  
